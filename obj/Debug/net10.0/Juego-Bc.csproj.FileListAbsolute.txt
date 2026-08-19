@@ -1,0 +1,15 @@
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\bin\Debug\net10.0\Juego-Bc.exe
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\bin\Debug\net10.0\Juego-Bc.deps.json
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\bin\Debug\net10.0\Juego-Bc.runtimeconfig.json
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\bin\Debug\net10.0\Juego-Bc.dll
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\bin\Debug\net10.0\Juego-Bc.pdb
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.AssemblyInfoInputs.cache
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.AssemblyInfo.cs
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.csproj.CoreCompileInputs.cache
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.sourcelink.json
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.dll
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\refint\Juego-Bc.dll
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.pdb
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\Juego-Bc.genruntimeconfig.cache
+C:\Users\askdo\Desktop\01 c#\Juego-Bc\obj\Debug\net10.0\ref\Juego-Bc.dll
